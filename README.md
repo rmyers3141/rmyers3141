@@ -1,4 +1,4 @@
-## Hi there !
+## Hi there!
 
 I am **Platform & DevOps Engineer** with over 15 years' experience, having particular expertise in **Web & Middleware** infrastructure.
 
